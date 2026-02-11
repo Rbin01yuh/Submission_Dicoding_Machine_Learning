@@ -195,7 +195,7 @@ Buka dan jalankan notebook secara berurutan:
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan submission Dicoding Indonesia.
+Proyek ini dibuat untuk keperluan submission Dicoding Indonesia, boleh dijadikan referensi, namun tidak boleh digunakan untuk kecurangan dll.
 
 ---
 
